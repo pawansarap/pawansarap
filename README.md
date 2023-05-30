@@ -3,6 +3,7 @@
      science 
 - 💞️ I’m looking to collaborate on web 
       developer companies
+      and WordPress developer 
 - ⚡ Fun fact, I have been learning
      about Computer Science for more
      than 4 years but still I find it
