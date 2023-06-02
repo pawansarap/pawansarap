@@ -10,11 +10,11 @@
      about Computer Science for more
      than 4 years but still I find it
      joyful and interesting.
+     
+<h1>🌐 Socials:</h1>
+<a herf= "https://www.linkedin.com/in/pawan-sarap-872694252/">
+     Linkedin</a>
 
-<!---
-pawansarap/pawansarap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=PawanSarap&label=Profile%20Views&color=0&icon=9&pretty=true" />
 </a>
