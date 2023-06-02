@@ -13,3 +13,6 @@
 pawansarap/pawansarap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=PawanSarap&label=Profile%20Views&color=0&icon=9&pretty=true" />
+</a>
