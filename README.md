@@ -1,4 +1,4 @@
-💫 About Me:
+<h1>💫 About Me:</h1>
 
 - 👋 Hi, I’m pawan sarap
 - 🌱 I’m currently learning B.Sc computer
