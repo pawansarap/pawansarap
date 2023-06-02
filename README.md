@@ -13,7 +13,7 @@
      
 <h1>🌐 Socials:</h1>
 <a herf= "https://www.linkedin.com/in/pawan-sarap-872694252/">
-     Linkedin</a><br>
+     <img src="https://visitcount.itsvg.in/api?id=PawanSarap&label=Profile%20Views&color=0&icon=9&pretty=true" /></a><br>
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=PawanSarap&label=Profile%20Views&color=0&icon=9&pretty=true" />
