@@ -3,7 +3,7 @@
 ⚡I love creating new things <br>
 🚀Turning imagination into reality 
 # Creation 👨‍💻
- [![Twitch](https://img.shields.io/badge/Portfolio-%23E34F26.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://portfolio2916.000webhostapp.com/) 
+ [![Portfolio](https://img.shields.io/badge/Portfolio-%23E34F26.svg?logo=Twitch&logoColor=white)](https://portfolio2916.000webhostapp.com/) 
 # 💫 About Me:
 <br> 🌱 I’m currently learning B.Sc computer science <br>💞️ I’m looking to collaborate on web developer companies and WordPress developer <br>⚡ Fun fact, I have been learning about Computer Science for more than 4 years but still I find it joyful and interesting.<br>    
 
