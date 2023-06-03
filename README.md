@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 👋 Hi, I’m pawan sarap<br>- 🌱 I’m currently learning B.Sc computer<br>     science <br>- 💞️ I’m looking to collaborate on web <br>      developer companies<br>      and WordPress developer <br>- ⚡ Fun fact, I have been learning<br>     about Computer Science for more<br>     than 4 years but still I find it<br>     joyful and interesting.<br>     🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<br>👋 Hi, I’m pawan sarap<br> 🌱 I’m currently learning B.Sc computer science <br>💞️ I’m looking to collaborate on web developer companies and WordPress developer <br>⚡ Fun fact, I have been learning about Computer Science for more than 4 years but still I find it joyful and interesting.<br>    
 
 
 ## 🌐 Socials:
