@@ -1,6 +1,6 @@
 
-# Hi 👋🏻, I'm Pawan Sarap <br><br>
-⚡I love creating new things. <br>
+# Hi 👋🏻, I'm Pawan Sarap <br>
+<br>⚡I love creating new things. <br>
 🚀Turning imagination into reality. 
 # 👨‍💻 Creation 
 <br>⚡ Visit to my Portfolio website to know more about me. <br><br>
