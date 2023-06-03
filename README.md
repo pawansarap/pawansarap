@@ -1,7 +1,7 @@
 
 # Hi 👋🏻, I'm Pawan Sarap <br>
-I love creating new things ⚡<br>
-Turning imagination into reality 🚀
+⚡I love creating new things <br>
+🚀Turning imagination into reality 
 # Creation 👨‍💻
 
 
