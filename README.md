@@ -12,7 +12,9 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pawan-sarap-872694252/) 
 [![Replit](https://img.shields.io/badge/Replit-%23E34F26.svg?logo=Replit&logoColor=white)](https://replit.com/@pawansarap/)
-[![Hakerrank](https://img.shields.io/badge/Hakerrank-%2334F26.svg?logo=HakerRank&logoColor=white)](https://www.hackerrank.com/pawansarap519?hr_r=1)
+[![Hakerrank](https://img.shields.io/badge/Hakerrank-%2334F26.svg?logo=HAKERRANK&logoColor=white)](https://www.hackerrank.com/pawansarap519?hr_r=1)
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?logo=GitHub&logoColor=white)](https://github.com/pawansarap/)
+
  
 
 # 💻 Tech Stack:
