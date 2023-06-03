@@ -10,7 +10,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=oregon)](https://linkedin.com/in/https://www.linkedin.com/in/pawan-sarap-872694252/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=red)](https://linkedin.com/in/https://www.linkedin.com/in/pawan-sarap-872694252/) 
 [![LinkedIn](https://img.shields.io/badge/Replit-%230077B5.svg?logo=Replit&logoColor=white)](https://replit.com/@pawansarap/) 
 
 # 💻 Tech Stack:
