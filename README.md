@@ -6,7 +6,7 @@
 <br>⚡ Visit to my Portfolio website to know more about me. <br><br>
  [![Portfolio](https://img.shields.io/badge/Portfolio-%23E34F26.svg?logo=Twitch&logoColor=white)](https://portfolio2916.000webhostapp.com/) 
 # 💫 About Me:
-<br> 🌱 I have completed  B.Sc computer science. <br> 💞️ I am currently learning more about Web Development. <br>💞️ I’m looking to collaborate on WordPress developer. <br>⚡ Fun fact, I have been learning about Computer Science for more than 3 years but still I find it joyful and interesting.<br>    
+<br> 🌱 I am pursuing MCA. <br> <br> 🌱 I have completed  B.Sc computer science. <br> 💞️ I am currently learning more about Web Development. <br>💞️ I’m looking to collaborate on WordPress developer. <br>⚡ Fun fact, I have been learning about Computer Science for more than 3 years but still I find it joyful and interesting.<br>    
 
 
 ## 🌐 Socials:
